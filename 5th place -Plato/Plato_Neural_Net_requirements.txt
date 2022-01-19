@@ -1,0 +1,1 @@
+pytorch_tabular[all]==0.7.0
