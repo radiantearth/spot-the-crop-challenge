@@ -26,13 +26,13 @@ The following table shows the competition scores of the awarded winners.
 <img src="/_figures/radiantearth.png" width="305" height="88">
 
 ## Convening Sponsor
-<img src="/_figures/GIZ.png" width="305" height="88">
+<img src="/_figures/GIZ.png" width="435" height="88">
 
 ## Data Provider and Collaborator
-<img src="/_figures/WesternCapeAg.png" width="305" height="88">
+<img src="/_figures/WesternCapeAg.png" width="275" height="88">
 
 ## Platinum Sponsor
-<img src="/_figures/CV4GC.png" width="308" height="200">
+<img src="/_figures/CV4GC.png" width="135" height="88">
 
 ## Gold Sponsor
-<img src="/_figures/DescartesLabs.png" width="305" height="88">
+<img src="/_figures/DescartesLabs.png" width="240" height="88">
