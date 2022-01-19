@@ -29,7 +29,7 @@ The following table shows the competition scores of the awarded winners.
 
 ## Convening Sponsor
 <p align="center">
-	<img src="/_figures/GIZ.png" width="479" height="97">
+	<img src="/_figures/GIZ.png" width="551" height="112">
 </p>
 
 ## Data Provider and Collaborator
